@@ -1,4 +1,18 @@
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+Year: 2024/2025
+Group: U4225
+Author: Semenova Aleksandra Nikolaevna
+Lab: Lab3
+Date of create: 25.10.2024
+Date of finished: 25.10.2024
+
 # Лабораторная работа №3: "Исследование Cloud Storage"
+
+### Выполнила:
+Семенова Александра, номер ИСУ 412287
+
 
 ## Описание
 
