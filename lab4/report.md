@@ -4,7 +4,7 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://) 
 Year: 2024/2025
 Group: U4225
 Author: Semenova Aleksandra Nikolaevna
-Lab: Lab1
+Lab: Lab4
 Date of create: 25.10.2024
 Date of finished: 26.10.2024
 
