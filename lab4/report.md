@@ -1,4 +1,17 @@
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+Year: 2024/2025
+Group: U4225
+Author: Semenova Aleksandra Nikolaevna
+Lab: Lab1
+Date of create: 21.10.2024
+Date of finished: 22.10.2024
+
 # Лабораторная работа №4 "Разработка инфраструктуры MVP AI приложения"
+
+### Выполнила:
+Семенова Александра, номер ИСУ 412287
 
 ## Описание
 Эта лабораторная работа направлена на разработку инфраструктуры для прототипа AI-приложения с базовой функциональностью. В рамках работы мы спроектируем инфраструктуру для приложения на трех этапах: начальное состояние, тестирование партнерами и продовое решение.
