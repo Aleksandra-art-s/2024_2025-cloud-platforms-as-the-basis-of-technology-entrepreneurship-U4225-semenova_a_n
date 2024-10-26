@@ -5,8 +5,8 @@ Year: 2024/2025
 Group: U4225
 Author: Semenova Aleksandra Nikolaevna
 Lab: Lab1
-Date of create: 21.10.2024
-Date of finished: 22.10.2024
+Date of create: 25.10.2024
+Date of finished: 26.10.2024
 
 # Лабораторная работа №4 "Разработка инфраструктуры MVP AI приложения"
 
