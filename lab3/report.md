@@ -56,7 +56,7 @@ Date of finished: 25.10.2024
 ### 6. Проверка публичного доступа
 Для проверки я открыла одну из созданных публичных ссылок и убедилась, что файлы доступны.
 
-https://storage.googleapis.com/semenova_storage-bucket/images/Copy%20of%20scale_1200.jpeg
+[https://storage.googleapis.com/semenova_storage-bucket/images/Copy%20of%20scale_1200.jpeg](https://storage.googleapis.com/semenova-storage-bucket/images/cute-ai-generated-cartoon-bunny_23-2150288872.jpg.avif)
 
 https://storage.googleapis.com/semenova_storage-bucket/images/images-2.jpeg
 
